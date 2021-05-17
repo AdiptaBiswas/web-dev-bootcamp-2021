@@ -1,0 +1,34 @@
+body {
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+}
+
+header {
+  font-family: "Racing Sans One", cursive;
+  font-size: 30px;
+  text-align: center;
+  color: #08090a;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  text-align: left;
+  color: #08090a;
+  line-height: 30px;
+}
+
+form {
+  margin-left: 500px;
+}
+
+button {
+  margin-left: 250px;
+  color: #08090a;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #08090a;
+  color: white;
+}
